@@ -1,4 +1,4 @@
-# m3-w1-d2-assignment (Day 3 Lab)
+# m3-w1-d3-assignment (Day 3 Lab)
 
 ## Overview
 Node.js + Express app that renders a registration form using Pug.
